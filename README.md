@@ -1,6 +1,5 @@
 9. Калькулятор калорий 
-Репозиторий: https://github.com/Lolitaklim/caloriecalculator  
-https://dolkalimona.ru/caloriecalculator/  
+https://dolkalimona.ru/calorie%D1%81alculator/  
 
 Другие мини-проекты:  
 
