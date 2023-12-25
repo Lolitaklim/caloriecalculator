@@ -5,6 +5,7 @@ https://dolkalimona.ru/caloriecalculator/
 Другие мини-проекты:  
 
 6. Игра «Угадай число».   
+Репозиторий: https://github.com/Lolitaklim/guessthenumber  
 https://dolkalimona.ru/guessthenumber/  
 
 7. Интерактивная карта с маркерами  
